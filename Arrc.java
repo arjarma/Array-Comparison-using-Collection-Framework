@@ -1,6 +1,6 @@
 public class Arrc
 {// Class Open 
-
+//Compares  2 arrays and and display the missing element
 public static void main(String arg[]) 
 	 { //main open
  //write code here 
